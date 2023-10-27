@@ -1,0 +1,94 @@
+{
+  "users": [
+    {
+      "name": "Serhan",
+      "surname": "Demirel",
+      "mail": "serhan@gmail.com",
+      "phone": "494494",
+      "adress": "Turkey",
+      "id": 1,
+      "status": "Active"
+    },
+    {
+      "name": "Adil",
+      "surname": "Demirel",
+      "mail": "adil@gmail.com",
+      "phone": "593134",
+      "adress": "UK",
+      "id": 2,
+      "status": "Active"
+    },
+    {
+      "name": "Sule",
+      "surname": "Demirel",
+      "mail": "sule@gmail.com",
+      "phone": "213494",
+      "adress": "UK",
+      "id": 3,
+      "status": "Active"
+    },
+    {
+      "name": "Buket",
+      "surname": "Demirel",
+      "mail": "buket@gmail.com",
+      "phone": "872649",
+      "adress": "Germany",
+      "id": 4,
+      "status": "Active"
+    },
+    {
+      "name": "Neslihan",
+      "surname": "Duman",
+      "mail": "neslihan@gmail.com",
+      "phone": "749371",
+      "adress": "UK",
+      "id": 5,
+      "status": "Active"
+    },
+    {
+      "name": "Ali",
+      "surname": "Yildiz",
+      "mail": "ali@gmail.com",
+      "phone": "158036",
+      "adress": "USA",
+      "id": 6,
+      "status": "Inactive"
+    },
+    {
+      "name": "Durdu",
+      "surname": "Ozturk",
+      "mail": "durdu@gmail.com",
+      "phone": "694494",
+      "adress": "Spain",
+      "id": 7,
+      "status": "Active"
+    },
+    {
+      "name": "Onur",
+      "surname": "Demirel",
+      "mail": "onur@gmail.com",
+      "phone": "784036",
+      "adress": "Finland",
+      "id": 8,
+      "status": "Inactive"
+    },
+    {
+      "name": "Yusra",
+      "surname": "Kocak",
+      "mail": "yusra@gmail.com",
+      "phone": "482601",
+      "adress": "Kanada",
+      "id": 9,
+      "status": "Active"
+    },
+    {
+      "name": "Gul",
+      "surname": "Demir",
+      "mail": "gul@gmail.com",
+      "phone": "494494",
+      "adress": "Russia",
+      "id": 10,
+      "status": "Inactive"
+    }
+  ]
+}
